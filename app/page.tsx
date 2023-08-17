@@ -8,6 +8,7 @@ export default function Home() {
         <p>
           Some random edits
           Blah blah blah
+          Even more edits!
           Get started by editing&nbsp;
           <code className={styles.code}>app/page.tsx</code>
         </p>
